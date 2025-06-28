@@ -5,7 +5,7 @@ WordPress 日本語ドキュメント（ハンドブック等）向けの `textl
 ## インストール
 
 ```bash
-npm install --save-dev textlint github:soramugi/textlint-rule-preset-wp-docs-ja
+npm install --save-dev textlint github:jawordpressorg/textlint-rule-preset-wp-docs-ja
 ````
 
 ## 設定例（.textlintrc）
